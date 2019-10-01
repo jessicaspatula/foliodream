@@ -1,0 +1,37 @@
+# Don't track content of these folders
+sandbox/
+# Don't track specific files
+iexfilelist_incomplete.txt
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Large Data set
+#####
+*.pcap
+*.csv
+20190924
+
+
+# temporary files
+*.swp
+*.swo
+*~
